@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.0",
-  "sourceCommit": "52505a7b6e3d0fbb41c81b370ec55b11eb9fb75e",
-  "sourceTree": "37dc25ccf03bca8ba90fcde245d3566414080bcd",
-  "distribution": "Frozen local P1-E 0.1.0 upgrade rehearsal; not a published release",
+  "version": "0.1.1",
+  "sourceCommit": "1dfbc525517627e9992c4a67c2fa7235403e108d",
+  "sourceTree": "21aecb4264e4c45f9d2f89e28df234d39de95029",
+  "distribution": "GitHub Releases: sugia279/hien-nha-template/core-v0.1.1",
   "packages": [
     {
       "id": "core-domain",
-      "file": "hien-nha-core-domain-0.1.0.tgz",
-      "integrity": "sha512-hc9xplGDKWg4XMq3YCerxTUhCShTqD22LS9bX0nhfaGz1MCLke+Cwvcmvdl0R6i0CkjYnwhkM4CxGf+QDNoOWw=="
+      "file": "hien-nha-core-domain-0.1.1.tgz",
+      "integrity": "sha512-Ft3KedlOWSPxrt3eGzKeMuY/dXqdv96xFoUSAk29V/P93TDjJxF78WIOjc5NOV6Gp9rxB/MZO0veGotwlYay7g=="
     },
     {
       "id": "core-config",
-      "file": "hien-nha-core-config-0.1.0.tgz",
-      "integrity": "sha512-sU1P2CkftrJ7wzUDtSGSGHxvGvJVHH00Vdw1QAJoMH0Hc273ctx3lkKFtg65HYra++351gsfqr61ph8LmdSq1A=="
+      "file": "hien-nha-core-config-0.1.1.tgz",
+      "integrity": "sha512-Wy1n2jlAmMG5jXP9WHm+hhGvCPR7Azkxmv+QsnYYeW80hS7RL2sWRU1WA0j/0EXbZm0qCsVjPUerJ4q6651mbA=="
     },
     {
       "id": "core-client",
-      "file": "hien-nha-core-client-0.1.0.tgz",
-      "integrity": "sha512-TIYTC6+jZDqwNT/POYdzUKhK/Mgfob0Yj9tU+1kkyfE/0D4rEWtj7qlncraJ6OPtm+lszny+EnYq6fbN/gIKrw=="
+      "file": "hien-nha-core-client-0.1.1.tgz",
+      "integrity": "sha512-RnemOHBKVAyXZVEVfhdJ6giq10Kl/uT48fWoF3K3xigL0krCMrN7zki9DCiUoxIrkuX1M7ZPZJbk2e+U1g44yA=="
     },
     {
       "id": "core-ui",
-      "file": "hien-nha-core-ui-0.1.0.tgz",
-      "integrity": "sha512-74tyLY6f9sphRzR+nZuFnMxJn5xtMpDCVCGhihYzuGLWmWjnExw41taa3nhbCIr4jTgr7Re2/yDJMzIPIGwLhQ=="
+      "file": "hien-nha-core-ui-0.1.1.tgz",
+      "integrity": "sha512-dOl6WTM2bEe7IcQQkIdJYZz2L0ZYu3YUz7dPUPC9N1IEcUtfrMEA/j6FJ+cGslOcau/KXvM9/uBofLnO8BpmIA=="
     }
   ]
 }

@@ -19,10 +19,10 @@
     "studio": "node tools/verify-core.mjs && npm run studio:build && node tools/studio.mjs"
   },
   "dependencies": {
-    "@hien-nha/core-domain": "file:vendor/hien-nha-core-domain-0.1.0.tgz",
-    "@hien-nha/core-config": "file:vendor/hien-nha-core-config-0.1.0.tgz",
-    "@hien-nha/core-client": "file:vendor/hien-nha-core-client-0.1.0.tgz",
-    "@hien-nha/core-ui": "file:vendor/hien-nha-core-ui-0.1.0.tgz"
+    "@hien-nha/core-domain": "file:vendor/hien-nha-core-domain-0.1.1.tgz",
+    "@hien-nha/core-config": "file:vendor/hien-nha-core-config-0.1.1.tgz",
+    "@hien-nha/core-client": "file:vendor/hien-nha-core-client-0.1.1.tgz",
+    "@hien-nha/core-ui": "file:vendor/hien-nha-core-ui-0.1.1.tgz"
   },
   "devDependencies": {
     "astro": "7.4.13",
