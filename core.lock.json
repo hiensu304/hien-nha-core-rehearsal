@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.0",
+  "sourceCommit": "52505a7b6e3d0fbb41c81b370ec55b11eb9fb75e",
+  "sourceTree": "37dc25ccf03bca8ba90fcde245d3566414080bcd",
+  "distribution": "Frozen local P1-E 0.1.0 upgrade rehearsal; not a published release",
+  "packages": [
+    {
+      "id": "core-domain",
+      "file": "hien-nha-core-domain-0.1.0.tgz",
+      "integrity": "sha512-hc9xplGDKWg4XMq3YCerxTUhCShTqD22LS9bX0nhfaGz1MCLke+Cwvcmvdl0R6i0CkjYnwhkM4CxGf+QDNoOWw=="
+    },
+    {
+      "id": "core-config",
+      "file": "hien-nha-core-config-0.1.0.tgz",
+      "integrity": "sha512-sU1P2CkftrJ7wzUDtSGSGHxvGvJVHH00Vdw1QAJoMH0Hc273ctx3lkKFtg65HYra++351gsfqr61ph8LmdSq1A=="
+    },
+    {
+      "id": "core-client",
+      "file": "hien-nha-core-client-0.1.0.tgz",
+      "integrity": "sha512-TIYTC6+jZDqwNT/POYdzUKhK/Mgfob0Yj9tU+1kkyfE/0D4rEWtj7qlncraJ6OPtm+lszny+EnYq6fbN/gIKrw=="
+    },
+    {
+      "id": "core-ui",
+      "file": "hien-nha-core-ui-0.1.0.tgz",
+      "integrity": "sha512-74tyLY6f9sphRzR+nZuFnMxJn5xtMpDCVCGhihYzuGLWmWjnExw41taa3nhbCIr4jTgr7Re2/yDJMzIPIGwLhQ=="
+    }
+  ]
+}

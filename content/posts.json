@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "siteId": "my-home",
+  "posts": [
+    {
+      "id": "owner-only",
+      "title": "Owner only",
+      "body": "OWNER_KEEP_PRIVATE_SOURCE",
+      "visibility": "ONLY_ME",
+      "published": false,
+      "media": []
+    },
+    {
+      "id": "public-story",
+      "title": "A real public rehearsal",
+      "body": "Keep this owner-authored story byte for byte.",
+      "visibility": "PUBLIC",
+      "published": true,
+      "media": []
+    }
+  ]
+}
